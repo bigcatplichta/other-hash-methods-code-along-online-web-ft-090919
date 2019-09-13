@@ -10,4 +10,5 @@ require 'pry'
 
 def get_the_keys(groceries)
   grocery_types = groceries.keys 
+  grocery_types
 end
