@@ -9,6 +9,6 @@ require 'pry'
 # }
 
 def get_the_values(groceries)
-  grocery_list = groceries.values 
-  grocery_list.flatten
+ groceries.values.flatten
+  
 end
